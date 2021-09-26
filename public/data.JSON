@@ -1,0 +1,92 @@
+ [
+  {
+    "key": 654872155,
+    "name": "DAKSHIN KATHALIA TAZEM ALI SECONDARY SCHOOL",
+    "totalStudent": 685,
+    "image": "https://thefinancialexpress.com.bd/uploads/1581955743.jpg",
+    "headMasterName": "Wadudur Rahman",
+    "address": "Kathalia, Amtali, Barguna",
+    "fundAmount": 1201745
+  },
+  {
+    "key": 658341255,
+    "name": "LOCHA JUUNIOR HIGH SCHOOL",
+    "totalStudent": 452,
+    "image": "https://images.adsttc.com/media/images/519d/65a7/b3fc/4b36/6500/0012/large_jpg/IMG_0272.jpg?1369269647",
+    "headMasterName": "Mahbubur Rahman",
+    "address": "Amtali, Barguna",
+    "fundAmount": 6475212
+  },
+  {
+    "key": 125436851,
+    "name": "BAROHAL EAHIA HIGH SCHOOL",
+    "totalStudent": 350,
+    "image": "https://www.unicef.org/innovation/sites/unicef.org.innovation/files/styles/hero_mobile/public/UNI47062.jpg?itok=elE-Ul3V",
+    "headMasterName": "Abdus Sattar",
+    "address": "Shahgali Bazar Rd, Barohal Union",
+    "fundAmount": 3214265
+  },
+  {
+    "key": 654210301,
+    "name": "BANOIL HIGH SCHOOL",
+    "totalStudent": 145,
+    "image": "https://static.toiimg.com/thumb/msid-69899080,width-400,resizemode-4/69899080.jpg",
+    "headMasterName": "Iqbal Mahmud",
+    "address": "Banoil Baghmara Rajshahi",
+    "fundAmount": 6565875
+  },
+  {
+    "key": 653210120,
+    "name": "AL-Ihsan High School",
+    "totalStudent": 632,
+    "image": "https://i.ytimg.com/vi/7Ow5R9NABoE/maxresdefault.jpg",
+    "headMasterName": "Abul Fazl Rabbi",
+    "address": "Uzampur, Dhaka",
+    "fundAmount": 2452113
+  },
+  {
+    "key": 652700143,
+    "name": "Khortoil Monsur Ali Adarsha Biddaloy",
+    "totalStudent": 100,
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/65/eb/68/a-visit-to-the-village.jpg",
+    "headMasterName": "Abdul Kader Mia",
+    "address": "Khilkhet, Dhaka",
+    "fundAmount": 14665485
+  },
+  {
+    "key": 203040506,
+    "name": "Ahsan Ullah Master High School",
+    "totalStudent": 325,
+    "image": "https://www.thehindubusinessline.com/opinion/qm1apr/article32185096.ece/ALTERNATES/LANDSCAPE_355/BL25THINKRURAL",
+    "headMasterName": "Abdul Halim Sarker",
+    "address": "Gazipur Sadar, Gazipur",
+    "fundAmount": 24548675
+  },
+  {
+    "key": 729654213,
+    "name": "Protiva Little Flower Academy",
+    "totalStudent": 642,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/A_children_village_school_in_Kovalam_Kerala_India.jpg",
+    "headMasterName": "Afzal Hossain",
+    "address": "Mirzapur, Tangail",
+    "fundAmount": 2458631
+  },
+  {
+    "key": 645812347,
+    "name": "Prottasha High School",
+    "totalStudent": 123,
+    "image": "https://static.toiimg.com/thumb/msid-62659307,imgsize-512103,width-400,resizemode-4/62659307.jpg",
+    "headMasterName": "Abdur Rahim",
+    "address": "Uttara, Dhaka",
+    "fundAmount": 0
+  },
+  {
+    "key": 698745212,
+    "name": "Meher Nigar School and College",
+    "totalStudent": 465,
+    "image": "https://static.toiimg.com/thumb/msid-70064013,imgsize-94619,width-400,resizemode-4/70064013.jpg",
+    "headMasterName": "Abdus Salam",
+    "address": "Tongi, Gazipur",
+    "fundAmount": 5864521
+  }
+]
